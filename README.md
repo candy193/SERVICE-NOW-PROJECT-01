@@ -1,4 +1,4 @@
-# ServiceNow ITSM Implementation — Project 1
+# ServiceNow ITSM Implementation — Projects
 
 ## Project Description
 
