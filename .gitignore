@@ -1,0 +1,26 @@
+# ServiceNow ITSM Project — .gitignore
+
+# Environment-specific config
+*.env
+config.local.js
+
+# Test data exports (may contain PII)
+test-data/
+exports/
+*.xml
+
+# ServiceNow update set exports (use proper update sets instead)
+*.zip
+update_set_*.xml
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
